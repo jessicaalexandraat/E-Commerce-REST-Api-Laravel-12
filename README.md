@@ -25,13 +25,13 @@ Sigue estos pasos para levantar el proyecto en un entorno local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <tu-enlace-de-github>
-   cd ecommerce-api
+   git clone (https://github.com/jessicaalexandraat/E-Commerce-REST-Api-Laravel-12)
 
    Instalar dependencias de Composer:
 
 Bash
 composer install
+
 Configurar el entorno:
 Copia el archivo de ejemplo para crear tu propio entorno y configura las variables de conexión a la base de datos MySQL y las credenciales de Stripe.
 
@@ -54,7 +54,8 @@ Iniciar el servidor local:
 
 Bash
 php artisan serve
-📖 Documentación de la API (Swagger)
+
+Documentación de la API (Swagger)
 Una vez que el servidor esté corriendo, puedes acceder a la documentación interactiva y probar todas las rutas directamente desde el navegador ingresando a:
 
  http://127.0.0.1:8000/api/documentation

@@ -2,7 +2,7 @@
 
 Una API RESTful completa y segura construida con Laravel 12 para la gestión de una plataforma de comercio electrónico. Este proyecto incluye autenticación robusta mediante tokens, gestión del catálogo de productos, procesamiento de órdenes con control de inventario y una pasarela de pagos integrada.
 
-## 🚀 Características Principales
+## Características Principales
 
 * **Autenticación JWT:** Registro, inicio y cierre de sesión seguros utilizando `php-open-source-saver/jwt-auth`.
 * **Gestión de Productos (CRUD):** Endpoints para listar, crear, visualizar, actualizar y eliminar productos del catálogo.
@@ -10,7 +10,7 @@ Una API RESTful completa y segura construida con Laravel 12 para la gestión de 
 * **Pasarela de Pagos (Stripe):** Integración con el SDK de Stripe (v22) para procesar los cobros de las órdenes generadas.
 * **Documentación Interactiva:** Interfaz gráfica generada con Swagger (OpenAPI) para explorar y probar los endpoints de forma nativa.
 
-## 🛠️ Tecnologías y Requisitos
+## Tecnologías y Requisitos
 
 * **PHP:** >= 8.2
 * **Framework:** Laravel 12
@@ -19,7 +19,7 @@ Una API RESTful completa y segura construida con Laravel 12 para la gestión de 
 * **Pagos:** Stripe PHP SDK
 * **Documentación:** L5-Swagger
 
-## ⚙️ Instalación y Configuración
+## Instalación y Configuración
 
 Sigue estos pasos para levantar el proyecto en un entorno local:
 
